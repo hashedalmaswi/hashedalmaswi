@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Hashed
+Cybersecurity student in Taiz, Yemen
 
-<!--
-**hashedalmaswi/hashedalmaswi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focus
+Web pentesting · Network security · MikroTik .  Web devolopment
 
-Here are some ideas to get you started:
+ Projects
+- MikroTik Hotspot system (login portal + vouchers)
+- Security writeups (PortSwigger labs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certificates
+- Cisco CCNA 1
+- Advanced English Diploma
+
+ Contact
+LinkedIn: ...
